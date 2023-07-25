@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Nusrat Jahan</h1>
 <h3 align="center">A full-stack web developer from Bangladesh</h3>
 
-<img align="right"  src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" alt="coding" width="450"  height="350"/>
+<img align="right"  src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" alt="coding" width="450" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nusrat-git&label=Profile%20views&color=0e75b6&style=flat" alt="nusrat-git" /> </p>
 
