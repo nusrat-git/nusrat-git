@@ -1,9 +1,9 @@
-[![MasterHead](https://i.ibb.co/6rcWymG/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://nusrat-jahan66.web.app/)
+[![MasterHead](https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif)](https://nusrat-jahan66.web.app/)
 
 <h1 align="center">Hi 👋, I'm Nusrat Jahan</h1>
-<h3 align="center">A full-stack developer from Bangladesh</h3>
+<h3 align="center">A full-stack web developer from Bangladesh</h3>
 
-<img align="right" src="https://i.ibb.co/Nmf07by/0a10af70-6cbf-46df-9071-0ff586a3b1d6.gif" alt="coding" width="400" />
+<img align="right"  src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" alt="coding" width="400" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nusrat-git&label=Profile%20views&color=0e75b6&style=flat" alt="nusrat-git" /> </p>
 
