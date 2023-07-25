@@ -20,7 +20,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1GIQvrICKvcaGiymQMz20TzJJ4CVYPBAx/view?usp=drive_link](https://drive.google.com/file/d/1GIQvrICKvcaGiymQMz20TzJJ4CVYPBAx/view?usp=drive_link)
 
-- ⚡ Fun fact **I am super friendly and funny**
+- ⚡ Fun fact **I am super friendly**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
