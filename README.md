@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://nusrat-jahan66.web.app/](https://nusrat-jahan66.web.app/)
 
-- 💬 Ask me about **react, next.js, node.js, c, c++**
+- 💬 Ask me about **react, next.js, node.js, c, c++, python, mysql, php, laravel**
 
 - 📫 Feel free to reach me at 	**nusratjahanmithila66@gmail.com**
 
