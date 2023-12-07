@@ -8,9 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nusrat-git&label=Profile%20views&color=0e75b6&style=flat" alt="nusrat-git" /> </p>
 
-- 🔭 I’m currently working at [The It Studio](https://www.theitstudio.in/)
+- 🔭 I’m currently working at [Web Shinez Technology](https://webshinez.com/)
 
-- 🌱 I’m currently learning **Data structure, Data algorithm**
+- 🌱 I’m currently learning **Laravel**
 
 - 👨‍💻 All of my projects are available at [https://nusrat-jahan66.web.app/](https://nusrat-jahan66.web.app/)
 
@@ -18,7 +18,7 @@
 
 - 📫 Feel free to reach me at 	**nusratjahanmithila66@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1GIQvrICKvcaGiymQMz20TzJJ4CVYPBAx/view?usp=drive_link](https://drive.google.com/file/d/1GIQvrICKvcaGiymQMz20TzJJ4CVYPBAx/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1GIQvrICKvcaGiymQMz20TzJJ4CVYPBAx/view?usp=drive_link](https://drive.google.com/file/d/1hL0brUPaLmLALRWWho4OpMUPjQlyWDOi/view?usp=drivesdk)
 
 - ⚡ Fun fact **I am super friendly**
 
