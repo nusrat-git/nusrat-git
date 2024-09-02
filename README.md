@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nusrat-git&label=Profile%20views&color=0e75b6&style=flat" alt="nusrat-git" /> </p>
 
- # - 🔭 I’m currently working at [Web Shinez Technology](https://webshinez.com/)
+<!-- - 🔭 I’m currently working at [Web Shinez Technology](https://webshinez.com/) -->
 
 - 🌱 I’m currently learning **Laravel**
 
