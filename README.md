@@ -18,7 +18,7 @@
 
 - 📫 Feel free to reach me at 	**nusratjahanmithila66@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1GIQvrICKvcaGiymQMz20TzJJ4CVYPBAx/view?usp=drive_link](https://drive.google.com/file/d/1hL0brUPaLmLALRWWho4OpMUPjQlyWDOi/view?usp=drivesdk)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/15aByfR8m2-XRXttRN0ysZPVv37QcKBls/view)
 
 - ⚡ Fun fact **I am super friendly**
 
