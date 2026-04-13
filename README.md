@@ -43,7 +43,7 @@ Git • Firebase • AWS • Nginx • Postman • Linux • Figma
 ---
 
 ### 🌐 Portfolio & Links
-- 👨‍💻 Portfolio: https://nusrat-jahan66.web.app/
+- 👨‍💻 Portfolio: [https://nusrat-jahan66.web.app/](https://nusratjahanmithila.vercel.app/)
 - 📄 Resume: [https://drive.google.com/file/d/15aByfR8m2-XRXttRN0ysZPVv37QcKBls/view](https://drive.google.com/file/d/1godpYq3riVfvaoPTZEuYhIgL1F44xdOl/view?usp=sharing)
 - 💼 LinkedIn: https://linkedin.com/in/nusratjahan66
 
